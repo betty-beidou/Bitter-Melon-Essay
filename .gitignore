@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Jekyll/GitHub Pages（若启用）
+_site/
+
+# 生成物（如果你想提交 PDF/Docx，请删掉对应行）
+*.pdf
+*.docx

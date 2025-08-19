@@ -20,4 +20,4 @@
 ## 许可
 - 文稿建议使用 **CC BY 4.0**；若含代码，可另附 **MIT** 许可。
 
-![System Architecture](docs/system-architecture.svg)
+![System Architecture](docs/workflow-architecture.svg)
